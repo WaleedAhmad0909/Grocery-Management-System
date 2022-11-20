@@ -1,5 +1,5 @@
 # How to set up and run the code
-* Download the files `Classes` and `Main` in the same folder.
+* Download the files `Classes` and `Main`.
 * `Classes` file contains `Product` and `ShoppingCart` classes while `Main` file controls the flow of the program.
 
 # Explanation of the flow of Program
